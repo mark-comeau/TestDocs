@@ -4,7 +4,7 @@
 
 ## Q2
 
-Test #4
+Test https://github.com/mark-comeau/TestDocs/issues/4
 
 ## Q3
 
