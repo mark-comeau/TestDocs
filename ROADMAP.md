@@ -10,14 +10,20 @@ Test https://github.com/mark-comeau/TestDocs/issues/4
 
 ## Q4
 
-![1](Updating-DataWarehouse.drawio)
+![1](/Updating-DataWarehouse.drawio)
 
-![2](Updating-DataWarehouse.drawio.svg)
+![2](/Updating-DataWarehouse.drawio.svg)
 
-![3](Updating-DataWarehouse.svg)
+![3](/Updating-DataWarehouse.svg)
 
-![4](Updating_DataWarehouse.drawio)
+![4](./Updating-DataWarehouse.drawio)
 
-![5](Updating_DataWarehouse.drawio.svg)
+![5](./Updating-DataWarehouse.drawio.svg)
 
-![6](Updating_DataWarehouse.svg)
+![6](./Updating-DataWarehouse.svg)
+
+![7](../Updating-DataWarehouse.drawio)
+
+![8](../Updating-DataWarehouse.drawio.svg)
+
+![9](../Updating-DataWarehouse.svg)
